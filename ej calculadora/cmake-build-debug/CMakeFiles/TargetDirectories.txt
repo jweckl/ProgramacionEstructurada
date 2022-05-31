@@ -1,0 +1,3 @@
+G:/programacionestructurada/ej switch/cmake-build-debug/CMakeFiles/ej_switch.dir
+G:/programacionestructurada/ej switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/programacionestructurada/ej switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
